@@ -1,7 +1,7 @@
 <template>
   <q-page class="row items-center justify-evenly">
       <!-- gif image -->
-      <img src="~assets/livraison.gif" alt="">
+      <span><img src="~assets/livraison.gif" alt="">"i’m lost"</span>
   </q-page>
 </template>
 
